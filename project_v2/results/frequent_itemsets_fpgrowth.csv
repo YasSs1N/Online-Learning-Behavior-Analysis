@@ -1,0 +1,11 @@
+support,length,itemsets_str
+0.267222512,1,Humanities
+0.256974118,1,Engineering
+0.203161369,1,Technology Studies
+0.147681084,1,Computing & IT
+0.099322564,1,Mathematics
+0.087719298,1,Education Studies
+0.037033177,2,"Computing & IT, Mathematics"
+0.024735105,1,Social Sciences Foundation
+0.02417926,2,"Computing & IT, Technology Studies"
+0.018620809,2,"Computing & IT, Engineering"

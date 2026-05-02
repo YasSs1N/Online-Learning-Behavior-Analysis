@@ -1,0 +1,3 @@
+antecedents_str,consequents_str,support,confidence,lift,leverage,conviction
+Mathematics,Computing & IT,0.037033177,0.372857643,2.524748822,0.022365113,1.359051746
+Computing & IT,Mathematics,0.037033177,0.250764526,2.524748822,0.022365113,1.20212866
