@@ -1,8 +1,0 @@
-code_module,module_name,domain,subject_area,students,presentations,avg_credits,pct_pass,pct_distinction,pct_fail,pct_withdrawn,avg_length_days
-AAA,Social Sciences Foundation,Social Sciences,Foundation,712,2,84.439,0.651,0.059,0.122,0.168,268.0
-BBB,Humanities,Social Sciences,Humanities,7692,4,84.073,0.389,0.086,0.223,0.302,251.0
-CCC,Computing & IT,STEM,Computing,4251,2,77.488,0.266,0.112,0.176,0.445,255.0
-DDD,Technology Studies,STEM,Technology,5848,4,86.648,0.355,0.061,0.225,0.359,251.0
-EEE,Mathematics,STEM,Mathematics,2859,3,65.436,0.441,0.121,0.192,0.246,259.0
-FFF,Engineering,STEM,Engineering,7397,4,90.845,0.384,0.086,0.22,0.31,254.0
-GGG,Education Studies,Social Sciences,Education,2525,3,34.459,0.441,0.156,0.287,0.115,257.0

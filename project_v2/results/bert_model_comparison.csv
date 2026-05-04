@@ -1,7 +1,0 @@
-metric,value
-pearson,0.9562
-spearman,0.168
-top100_overlap,79
-n_courses,500
-mode_minilm,fallback
-mode_base,fallback

@@ -1,8 +1,0 @@
-module_name,pagerank_score,code_module,domain,subject_area,students,rank
-Computing & IT,0.378676861,CCC,STEM,Computing,4251,1
-Mathematics,0.182310718,EEE,STEM,Mathematics,2859,2
-Technology Studies,0.151673147,DDD,STEM,Technology,5848,3
-Engineering,0.14019868,FFF,STEM,Engineering,7397,4
-Humanities,0.069782771,BBB,Social Sciences,Humanities,7692,5
-Education Studies,0.055557431,GGG,Social Sciences,Education,2525,6
-Social Sciences Foundation,0.021800392,AAA,Social Sciences,Foundation,712,7
