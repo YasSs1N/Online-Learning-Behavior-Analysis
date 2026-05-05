@@ -1,0 +1,17 @@
+antecedents,consequents,support,confidence,lift,leverage,conviction,certainty_factor,count
+frozenset({'Human Health and Global Environmental Change'}),frozenset({'The Challenges of Global Poverty'}),0.011184978,0.134589162,2.30125736,0.006324601,1.08793986,0.12480007,5330
+frozenset({'The Challenges of Global Poverty'}),frozenset({'Human Health and Global Environmental Change'}),0.011184978,0.191245066,2.30125736,0.006324601,1.133712284,0.182096837,5330
+frozenset({'Circuits and Electronics'}),frozenset({'Electricity and Magnetism'}),0.018997675,0.149658627,2.296995774,0.010727013,1.099377213,0.133191277,9053
+frozenset({'Electricity and Magnetism'}),frozenset({'Circuits and Electronics'}),0.018997675,0.291580778,2.296995774,0.010727013,1.232405777,0.277861832,9053
+frozenset({'Introduction to Computer Science and Programming'}),"frozenset({'Circuits and Electronics', 'CS50: Introduction to Computer Science'})",0.015390362,0.060098498,2.285805525,0.008657347,1.035968082,0.045406966,7334
+"frozenset({'Circuits and Electronics', 'CS50: Introduction to Computer Science'})",frozenset({'Introduction to Computer Science and Programming'}),0.015390362,0.58536196,2.285805525,0.008657347,1.794129562,0.578880783,7334
+frozenset({'Health in Numbers: Quantitative Methods'}),frozenset({'Justice'}),0.016573913,0.137581437,2.185252902,0.008989476,1.086526885,0.123046893,7898
+frozenset({'Justice'}),frozenset({'Health in Numbers: Quantitative Methods'}),0.016573913,0.263249117,2.185252902,0.008989476,1.193800806,0.250832479,7898
+frozenset({'Health in Numbers: Quantitative Methods'}),frozenset({'The Challenges of Global Poverty'}),0.012802918,0.106278089,1.817183728,0.005757445,1.053476405,0.094687447,6101
+frozenset({'The Challenges of Global Poverty'}),frozenset({'Health in Numbers: Quantitative Methods'}),0.012802918,0.218909221,1.817183728,0.005757445,1.126032751,0.208779288,6101
+frozenset({'Human Health and Global Environmental Change'}),frozenset({'Health in Numbers: Quantitative Methods'}),0.015409248,0.185419928,1.539186309,0.005397953,1.07973891,0.172671417,7343
+frozenset({'Health in Numbers: Quantitative Methods'}),frozenset({'Human Health and Global Environmental Change'}),0.015409248,0.127913459,1.539186309,0.005397953,1.051381209,0.114264947,7343
+"frozenset({'Circuits and Electronics', 'Introduction to Computer Science and Programming'})",frozenset({'CS50: Introduction to Computer Science'}),0.015390362,0.523744912,1.471405134,0.004930726,1.352324001,0.516300603,7334
+frozenset({'CS50: Introduction to Computer Science'}),"frozenset({'Circuits and Electronics', 'Introduction to Computer Science and Programming'})",0.015390362,0.043237571,1.471405134,0.004930726,1.014478355,0.028282486,7334
+frozenset({'Circuits and Electronics'}),"frozenset({'CS50: Introduction to Computer Science', 'Introduction to Computer Science and Programming'})",0.015390362,0.121241176,1.440636851,0.004707335,1.042199445,0.107505361,7334
+"frozenset({'CS50: Introduction to Computer Science', 'Introduction to Computer Science and Programming'})",frozenset({'Circuits and Electronics'}),0.015390362,0.182874526,1.440636851,0.004707335,1.068452728,0.170102097,7334
