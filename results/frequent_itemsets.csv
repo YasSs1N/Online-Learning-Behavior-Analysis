@@ -1,0 +1,28 @@
+itemsets,support,length,count
+frozenset({'CS50: Introduction to Computer Science'}),0.355948814,1,169621
+frozenset({'Introduction to Computer Science and Programming'}),0.256085635,1,122033
+frozenset({'Circuits and Electronics'}),0.126940059,1,60491
+frozenset({'Health in Numbers: Quantitative Methods'}),0.120466202,1,57406
+frozenset({'Health in Numbers: Epidemiology and Statistics'}),0.087280602,1,41592
+"frozenset({'CS50: Introduction to Computer Science', 'Introduction to Computer Science and Programming'})",0.084158042,2,40104
+frozenset({'Human Health and Global Environmental Change'}),0.083104597,1,39602
+frozenset({'Electricity and Magnetism'}),0.065154071,1,31048
+frozenset({'Justice'}),0.062959046,1,30002
+frozenset({'The Challenges of Global Poverty'}),0.058485055,1,27870
+frozenset({'Introduction to Biology: The Secret of Life'}),0.044087281,1,21009
+frozenset({'Introduction to Solid State Chemistry'}),0.042353924,1,20183
+"frozenset({'Circuits and Electronics', 'Introduction to Computer Science and Programming'})",0.029385225,2,14003
+"frozenset({'Circuits and Electronics', 'CS50: Introduction to Computer Science'})",0.026292043,2,12529
+frozenset({'Mechanics ReView'}),0.019887437,1,9477
+"frozenset({'Circuits and Electronics', 'Electricity and Magnetism'})",0.018997675,2,9053
+"frozenset({'Justice', 'Health in Numbers: Quantitative Methods'})",0.016573913,2,7898
+"frozenset({'Human Health and Global Environmental Change', 'Health in Numbers: Quantitative Methods'})",0.015409248,2,7343
+"frozenset({'Circuits and Electronics', 'CS50: Introduction to Computer Science', 'Introduction to Computer Science and Programming'})",0.015390362,3,7334
+"frozenset({'CS50: Introduction to Computer Science', 'Health in Numbers: Quantitative Methods'})",0.01383118,2,6591
+"frozenset({'Electricity and Magnetism', 'Introduction to Computer Science and Programming'})",0.013510111,2,6438
+"frozenset({'Electricity and Magnetism', 'CS50: Introduction to Computer Science'})",0.013201632,2,6291
+"frozenset({'The Challenges of Global Poverty', 'Health in Numbers: Quantitative Methods'})",0.012802918,2,6101
+frozenset({'Elements of Structures'}),0.011887974,1,5665
+"frozenset({'The Challenges of Global Poverty', 'Human Health and Global Environmental Change'})",0.011184978,2,5330
+"frozenset({'Introduction to Solid State Chemistry', 'CS50: Introduction to Computer Science'})",0.010509263,2,5008
+"frozenset({'Health in Numbers: Epidemiology and Statistics', 'CS50: Introduction to Computer Science'})",0.010142026,2,4833

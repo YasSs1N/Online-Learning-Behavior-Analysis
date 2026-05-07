@@ -1,0 +1,40 @@
+course,similar_course_rank,similar_course,similarity_score
+Justice,1,Mechanics ReView,0.7918
+Justice,2,The Challenges of Global Poverty,0.7885
+Justice,3,Health in Numbers: Quantitative Methods,0.7839
+CS50: Introduction to Computer Science,1,Introduction to Computer Science and Programming,0.931
+CS50: Introduction to Computer Science,2,Health in Numbers: Quantitative Methods,0.776
+CS50: Introduction to Computer Science,3,Mechanics ReView,0.761
+Health in Numbers: Quantitative Methods,1,Health in Numbers: Epidemiology and Statistics,0.9373
+Health in Numbers: Quantitative Methods,2,Introduction to Biology: The Secret of Life,0.8432
+Health in Numbers: Quantitative Methods,3,The Challenges of Global Poverty,0.8334
+Health in Numbers: Epidemiology and Statistics,1,Health in Numbers: Quantitative Methods,0.9373
+Health in Numbers: Epidemiology and Statistics,2,The Challenges of Global Poverty,0.8347
+Health in Numbers: Epidemiology and Statistics,3,Introduction to Biology: The Secret of Life,0.8035
+Human Health and Global Environmental Change,1,The Challenges of Global Poverty,0.8492
+Human Health and Global Environmental Change,2,Health in Numbers: Epidemiology and Statistics,0.7973
+Human Health and Global Environmental Change,3,Health in Numbers: Quantitative Methods,0.7865
+Circuits and Electronics,1,Electricity and Magnetism,0.8431
+Circuits and Electronics,2,Elements of Structures,0.8211
+Circuits and Electronics,3,Introduction to Solid State Chemistry,0.8173
+The Challenges of Global Poverty,1,Human Health and Global Environmental Change,0.8492
+The Challenges of Global Poverty,2,Health in Numbers: Epidemiology and Statistics,0.8347
+The Challenges of Global Poverty,3,Health in Numbers: Quantitative Methods,0.8334
+Elements of Structures,1,Introduction to Solid State Chemistry,0.8541
+Elements of Structures,2,Mechanics ReView,0.8251
+Elements of Structures,3,Electricity and Magnetism,0.8223
+Introduction to Solid State Chemistry,1,Elements of Structures,0.8541
+Introduction to Solid State Chemistry,2,Mechanics ReView,0.8371
+Introduction to Solid State Chemistry,3,Circuits and Electronics,0.8173
+Introduction to Computer Science and Programming,1,CS50: Introduction to Computer Science,0.931
+Introduction to Computer Science and Programming,2,Health in Numbers: Quantitative Methods,0.7835
+Introduction to Computer Science and Programming,3,Mechanics ReView,0.7813
+Introduction to Biology: The Secret of Life,1,Health in Numbers: Quantitative Methods,0.8432
+Introduction to Biology: The Secret of Life,2,Health in Numbers: Epidemiology and Statistics,0.8035
+Introduction to Biology: The Secret of Life,3,Introduction to Solid State Chemistry,0.8008
+Electricity and Magnetism,1,Mechanics ReView,0.8771
+Electricity and Magnetism,2,Circuits and Electronics,0.8431
+Electricity and Magnetism,3,Elements of Structures,0.8223
+Mechanics ReView,1,Electricity and Magnetism,0.8771
+Mechanics ReView,2,Introduction to Solid State Chemistry,0.8371
+Mechanics ReView,3,Elements of Structures,0.8251
